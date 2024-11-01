@@ -166,4 +166,5 @@ rbbm_src/snorkel/
 local/
 !ExperimentsInPaper/
 !ExperimentsInPaper/*
+!full_version.pdf
 ExperimentsInPaper/.ipynb_checkpoints/

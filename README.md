@@ -4,3 +4,4 @@ To generally run RuleCleaner with your desired parameters, please look into [run
 
 To reproduce the experiment results please refer to [ExperimentsInPaper](ExperimentsInPaper/)
 
+The extended version of the paper is [Here](full_version.pdf)
